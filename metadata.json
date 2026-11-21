@@ -1,0 +1,6 @@
+{
+  "name": "Medicine Reminder",
+  "description": "Android-compatible Medicine Reminder app with daily schedules, native alarm notifications, Hindi & English support, medicine search, and intake history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
